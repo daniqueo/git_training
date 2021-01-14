@@ -5,3 +5,5 @@ plot y
 7 8 9
 plot x
 
+10 11 12
+plot y
