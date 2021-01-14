@@ -1,3 +1,3 @@
 plot x
 1 2 3
-code line
+plot y
