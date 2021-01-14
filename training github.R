@@ -7,3 +7,4 @@ plot x
 
 10 11 12
 plot y
+plot x
